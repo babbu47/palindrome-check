@@ -9,5 +9,10 @@ body{
 }
 #buto{
     color:white;
-    border:1px solid white
+    border:1px solid white ;
+    
+}
+#dating{
+    width:20%;
+    height:1rem;
 }
